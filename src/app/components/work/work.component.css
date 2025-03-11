@@ -1,0 +1,35 @@
+#work {
+    margin-top: 100px;
+    margin-left: 200px;
+  }
+
+.work-heading{
+    margin-bottom: 100px;
+    font-size: 70px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700; 
+    color: white;
+    text-shadow: 0 0 15px #00eefe, 0 0 30px #00eefe;
+}
+.client{
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500; 
+    color: white;
+    text-shadow: 0 0 15px #00eefe, 0 0 30px #00eefe;
+}
+.employer{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500; 
+    color:#00eefe;
+    text-shadow: 0 0 15px #fff, 0 0 30px #fff;
+}
+.desc {
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    opacity: 0.6;
+    font-weight: 500; 
+    color:#00eefe;
+    text-shadow: 0 0 15px #fff
+}

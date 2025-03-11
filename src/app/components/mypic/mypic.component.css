@@ -1,0 +1,27 @@
+
+body {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  margin-top: 50px;
+  height: 400px;
+  overflow: hidden;
+}
+.svg-container {
+  padding: 10px;
+  border: 2px solid white;
+  box-shadow: 0 0 0 5px #00eefe; 
+  border-radius: 250px; 
+  overflow: hidden; 
+  transition: box-shadow 0.2s ease-out; 
+}
+
+
+.svg-container:hover {
+  box-shadow: 0 0 20px 10px rgba(0, 238, 254, 0.8);
+}
+
+#Head {
+  transition: transform 0.2s ease-out; 
+  transform-origin: center; 
+}

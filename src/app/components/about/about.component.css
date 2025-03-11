@@ -1,0 +1,39 @@
+
+#about {
+    margin-top: 170px;
+    margin-left: 200px;
+  }
+
+.about-heading{
+    font-size: 70px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700; 
+    color: white;
+    text-shadow: 0 0 15px #00eefe, 0 0 30px #00eefe;
+}
+.about-description{
+    font-size: large;
+    opacity: 0.7;
+    margin-top: 10px;
+    line-height: 1.8rem;
+}
+.about-description .strong{
+   
+    color: #00eefe;
+    font-weight: 700;
+    font-size: large;
+}
+.channel{
+    font-weight: 700;
+    color: red;
+    text-decoration: none;
+}
+img {
+    border-radius: 15px;
+    filter: blur(25px);
+    transition: filter 1.5s ease; 
+  }
+
+img.loaded {
+  filter: blur(0); 
+}

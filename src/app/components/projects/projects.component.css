@@ -1,0 +1,45 @@
+#projects {
+    margin-top: 100px;
+    margin-left: 200px;
+  }
+
+.projects-heading{
+    font-size: 70px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700; 
+    color: white;
+    text-shadow: 0 0 15px #00eefe, 0 0 30px #00eefe;
+}
+.project-title{
+    font-size: 50px;
+    font-weight: 700; 
+    color: #00eefe;
+    text-shadow: 0 0 15px #00eefe, 0 0 30px ;
+    transition: all 0.3s ease-in-out;
+}
+.project-title i {
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+}
+
+.project-title i:hover{
+    color: #00eefe;
+    cursor: pointer;
+}
+.project-desc{
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0 0 15px #00eefe, 0 0 30px ;
+    transition: all 0.3s ease-in-out;
+}
+.tech-stack{
+    opacity: 0.6;
+}
+.tech-heading{
+    font-size: 30px;
+    font-weight: 700; 
+    color: #00eefe;
+    text-shadow: 0 0 15px #00eefe, 0 0 30px ;
+    transition: all 0.3s ease-in-out;
+}
